@@ -1,0 +1,132 @@
+"","Subject","groom.min.hr","Group","Status","Group.Size"
+"1","BUM",1.8969696969697,"G","Leader Male",5
+"2","CAK",3.51794871794872,"C3","Adult Female",5
+"3","CAL",4.51041666666667,"C1","Adult Female",10
+"4","CAP",3.84,"C1","Adult Female",10
+"5","CAR",5.18787878787878,"C1","Adult Female",10
+"6","CAS",2.81538461538462,"C3","Adult Female",5
+"7","CEE",2.15777777777778,"C1","Adult Female",10
+"8","CEY",2.54444444444445,"C1","Adult Female",10
+"9","CHU",4.51538461538462,"C3","Adult Female",5
+"10","COC",2.64273504273505,"C1","Adult Female",10
+"11","COL",2.91884057971015,"C3","Adult Female",5
+"12","COO",1.35675675675676,"C1","Adult Female",10
+"13","COR",2.5686274509804,"C1","Adult Female",10
+"14","DAW",0.935714285714285,"D","Adult Female",6
+"15","DEB",3.40761904761905,"D","Adult Female",6
+"16","DEL",2.94408602150538,"D","Adult Female",6
+"17","DES",2.69111111111112,"D","Adult Female",6
+"18","DEV",2.95862068965517,"D","Leader Male",6
+"19","DGU",5.28235294117647,"AMG2","Bachelor",10
+"20","DIK",5.01367521367522,"AMG7","Bachelor",9
+"21","DIK",5.01367521367522,"C3","Leader Male",5
+"22","DJI",1.26666666666667,"D","Follower Male",6
+"23","GLA",1.3030303030303,"G","Adult Female",5
+"24","GLE",4.16969696969697,"G","Adult Female",5
+"25","GRA",2.36666666666667,"G","Adult Female",5
+"26","GYP",3.93333333333333,"G","Adult Female",5
+"27","HAR",4.14545454545455,"H1","Adult Female",8
+"28","HEK",0.84,"H1","Adult Female",8
+"29","HER",1.9939393939394,"H1","Adult Female",8
+"30","HES",0.438888888888888,"H1","Adult Female",8
+"31","HIC",3.82222222222222,"H1","Adult Female",8
+"32","HIM",5.45238095238095,"H2","Adult Female",4
+"33","HIP",3.47272727272727,"H1","Adult Female",8
+"34","HON",5.7952380952381,"H2","Adult Female",4
+"35","HOO",2.16491228070175,"AMG7","Bachelor",9
+"36","HOU",1.22857142857143,"K","Leader Male",5
+"37","HUP",1.76969696969697,"H1","Adult Female",8
+"38","JIN",1.16543209876543,"J","Adult Female",4
+"39","JOH",5.06376811594203,"N","Leader Male",5
+"40","JOO",4.75641025641025,"J","Adult Female",4
+"41","KEE",2.43333333333333,"K","Adult Female",5
+"42","KIM",4.69666666666667,"K","Adult Female",5
+"43","KIN",2.81555555555555,"K","Adult Female",5
+"44","KNU",3.63333333333333,"K","Follower Male",5
+"45","LEE",2.58666666666667,"L","Adult Female",6
+"46","LIS",1.62222222222222,"L","Adult Female",6
+"47","LOL",1.98518518518518,"L","Adult Female",6
+"48","LOO",2.54074074074073,"L","Adult Female",6
+"49","LOR",0.873333333333333,"L","Adult Female",6
+"50","MHE",3.68148148148148,"J","Leader Male",4
+"51","NAD",1.67843137254902,"N","Adult Female",5
+"52","NAR",5.56825396825397,"N","Adult Female",5
+"53","NIK",1.52857142857143,"H2","Leader Male",4
+"54","NOG",3.25714285714285,"N","Adult Female",5
+"55","NOH",4.98181818181818,"V","Leader Male",9
+"56","QUA",4.6125,"AMG7","Bachelor",9
+"57","QUA",4.6125,"V","Leader Male",9
+"58","RIC",6.65925925925927,"R","Adult Female",6
+"59","RIT",0.556410256410257,"R","Adult Female",6
+"60","ROO",2.34814814814815,"R","Adult Female",6
+"61","ROZ",0.280555555555555,"R","Adult Female",6
+"62","RUB",1.14814814814815,"R","Adult Female",6
+"63","SAW",4.53846153846153,"J","Follower Male",5
+"64","SON",2.78333333333333,"H1","Leader Male",4
+"65","TEQ",2.95238095238095,"AMG2","Bachelor",10
+"66","TEQ",2.95238095238095,"C1","Leader Male",10
+"67","VAL",3.85185185185185,"V","Adult Female",9
+"68","VAM",2.25925925925927,"V","Adult Female",9
+"69","VES",3.12307692307692,"V","Adult Female",9
+"70","VIO",2.91666666666667,"V","Adult Female",9
+"71","VIV",1.51851851851852,"V","Adult Female",9
+"72","VYE",1.67741935483872,"V","Adult Female",9
+"73","WHA",3.15833333333333,"V","Follower Male",9
+"74","YEL",1.59333333333333,"N","Follower Male",5
+"75","ZEU",3.8969696969697,"Z","Leader Male",8
+"76","ZIM",1.18787878787879,"Z","Adult Female",8
+"77","ZIO",1.15333333333333,"Z","Adult Female",8
+"78","ZIP",2.94814814814815,"Z","Adult Female",8
+"79","ZOO",1.42222222222222,"Z","Adult Female",8
+"80","MAY",3.56846846833333,"AMG6","Bachelor",7
+"81","ASH",1.23537414966667,"AMG9","Bachelor",5
+"82","ASL",1.32127659566667,"AMG6","Bachelor",7
+"83","ATE",4.69090909166667,"AMG2","Bachelor",10
+"84","ATT",2.51111111166667,"AMG3","Bachelor",4
+"85","BUS",0.906666666666667,"AMG9","Bachelor",5
+"86","DGU",2.03089430833333,"AMG2","Bachelor",10
+"87","DIK",1.57878787883333,"AMG7","Bachelor",9
+"88","DIK",1.57878787883333,"C3","Leader Male",5
+"89","DRA",3.00660660666667,"AMG7","Bachelor",9
+"90","DUM",1.82113821166667,"AMG4","Bachelor",8
+"91","DYE",2.85281385333333,"AMG6","Bachelor",7
+"92","EAG",5.09056603833333,"AMG6","Bachelor",7
+"93","EDG",4.45,"AMG6","Bachelor",7
+"94","EGG",1.34822695033333,"AMG6","Bachelor",7
+"95","ELA",0.295934959333333,"AMG9","Bachelor",5
+"96","ERG",3.45027322333333,"AMG6","Bachelor",7
+"97","FUL",1.88888888833333,"AMG4","Bachelor",8
+"98","GHE",1.70606060666667,"AMG3","Bachelor",4
+"99","HAS",1.03174603166667,"AMG8","Bachelor",3
+"100","HEX",2.74343434333333,"AMG8","Bachelor",3
+"101","HOO",0.873333333333333,"AMG7","Bachelor",9
+"102","IGO",0.619354838666667,"AMG7","Bachelor",9
+"103","IGO",0.619354838666667,"C1","Leader Male",10
+"104","KET",3.55061728333333,"AMG5","Bachelor",6
+"105","KHA",7.304761905,"AMG3","Bachelor",4
+"106","KRO",2.13777777833333,"AMG4","Bachelor",8
+"107","LES",2.67857142833333,"AMG9","Bachelor",5
+"108","MEA",2.36816816833333,"AMG7","Bachelor",9
+"109","MOB",1.52727272733333,"AMG7","Bachelor",9
+"110","MUM",1.052173913,"AMG7","Bachelor",9
+"111","MUS",0.6755555555,"AMG5","Bachelor",6
+"112","NSF",1.98,"AMG4","Bachelor",8
+"113","NYA",0.744680851,"AMG9","Bachelor",5
+"114","ONE",3.12,"AMG3","Bachelor",4
+"115","ONI",2.06274509833333,"AMG5","Bachelor",6
+"116","OUP",1.54027777783333,"AMG2","Bachelor",10
+"117","OUZ",1.2545454545,"AMG2","Bachelor",10
+"118","QUA",2.22608695666667,"AMG7","Bachelor",9
+"119","QUA",2.22608695666667,"V","Leader Male",9
+"120","RAN",5.70666666666667,"AMG8","Bachelor",3
+"121","REL",0.901449275333333,"AMG5","Bachelor",6
+"122","RHI",3.61904761833333,"AMG2","Bachelor",10
+"123","SAU",3.09090909166667,"AMG5","Bachelor",6
+"124","SHO",3.10980392166667,"AMG4","Bachelor",8
+"125","SMA",2.44848484833333,"AMG4","Bachelor",8
+"126","TEQ",1.03529411766667,"AMG2","Bachelor",10
+"127","TEQ",1.03529411766667,"C1","Leader Male",10
+"128","VOD",2.79104477666667,"AMG2","Bachelor",10
+"129","WHI",3.16969697,"AMG2","Bachelor",10
+"130","WOL",0.583673469333333,"AMG7","Bachelor",9
+"131","ZET",0.592156862666667,"AMG5","Bachelor",6
